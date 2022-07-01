@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @emrucam
+- 👀 I’m interested in Digital Marketing, Programming
+- 🌱 I’m currently learning Python
